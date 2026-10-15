@@ -6,6 +6,8 @@ Você acorda num planeta desbotado, ao lado da sua nave quebrada. Pelo chão bri
 
 No fim, você decide: consertar a nave e partir, ou ficar e reescrever o mundo.
 
+O jogo abre com uma introdução cinematográfica de cerca de 50 segundos que apresenta a história do planeta. Ela pode ser pulada e revista pelo menu de pausa.
+
 Os quebra-cabeças não exigem saber programar. Cada um apresenta, com situações do dia a dia, uma ideia básica da computação: código binário, algoritmos, laços de repetição e condicionais.
 
 ## Como jogar
@@ -26,6 +28,7 @@ O progresso e os ajustes ficam salvos no navegador.
 | Navegar em menus | Tab e Enter, ou mouse | Direcional e ✕ | Tocar |
 | Sortear nome | — | △ (na criação) | — |
 | Pausar | Esc ou P | Options | Botão ‖ |
+| Pular a introdução | Esc, Enter ou espaço | Segurar ✕ | Botão Pular |
 
 Para usar um controle, conecte-o ao computador por Bluetooth ou cabo e aperte ✕ com o jogo aberto. O navegador só reconhece o controle depois do primeiro botão pressionado.
 
@@ -35,6 +38,7 @@ Para usar um controle, conecte-o ao computador por Bluetooth ou cabo e aperte �
 - **Controles:** com um controle conectado, mostra um mapa dos botões que acende ao vivo.
 - **Ajustes:** sensibilidade da câmera, inversão de eixos, vibração e itens na tela.
 - **Ajuda:** dicas rápidas.
+- **Rever introdução:** assiste de novo à abertura.
 
 ## Tecnologia
 
